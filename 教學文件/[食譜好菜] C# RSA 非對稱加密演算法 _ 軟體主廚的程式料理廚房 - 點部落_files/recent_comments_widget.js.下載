@@ -1,0 +1,97 @@
+
+
+document.write(' \
+<style type="text/css" media="screen">\
+	 .dsq-widget ul.dsq-widget-list {\
+	 padding: 0;\
+	 margin: 0;\
+	 text-align: left;\
+	 }\
+	 img.dsq-widget-avatar {\
+	 width: 32px;\
+	 height: 32px;\
+	 border: 0px;\
+	 margin: 0px;\
+	 padding: 0px 3px 3px 0px;\
+	 float: left;\
+	 }\
+	 a.dsq-widget-user {\
+	 font-weight: bold;\
+	 }\
+	 a.dsq-widget-thread {\
+	 font-weight: bold;\
+	 }\
+	 p.dsq-widget-meta {\
+	 clear: both;\
+	 font-size: 80%;\
+	 padding: 0;\
+	 margin: 0;\
+	 }\
+	 li.dsq-widget-item {\
+	 margin: 15px 0;\
+	 list-style-type: none;\
+	 clear: both;\
+	 }\
+	 span.dsq-widget-clout {\
+	 padding: 0 2px;\
+	 background-color: #ff7300;\
+	 color: #fff;\
+	 }\
+	 table.dsq-widget-horiz td {\
+	 padding-right: 15px;\
+	 }\
+	 .dsq-widget-comment p {\
+	 display: inline;\
+	 }\
+	 </style>\
+	 <ul class="dsq-widget-list">\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/supershowwei/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/4067/195/avatar92.jpg?1448242888"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/supershowwei/">SuperShowwei</a>\
+	 <span class="dsq-widget-comment"><p>感謝 Ian 大...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2021/01/18/141431">[小菜一碟] 如果讀取自訂 ConfigurationElement 節點內的設定值？ | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2021/01/18/141431#comment-5232935744">1 month ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/ianChen806/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/15393/8485/avatar92.jpg?1611040655"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/ianChen806/">IanChen</a>\
+	 <span class="dsq-widget-comment"><p>標題錯字？ 如果=&gt;如何</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2021/01/18/141431">[小菜一碟] 如果讀取自訂 ConfigurationElement 節點內的設定值？ | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2021/01/18/141431#comment-5232931941">1 month ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/supershowwei/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/4067/195/avatar92.jpg?1448242888"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/supershowwei/">SuperShowwei</a>\
+	 <span class="dsq-widget-comment"><p>感謝 Bill 叔的分享，原來這個語法在 C# 的語言規格裡面就有寫了。...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2020/11/30/112402">[小菜一碟] C# 初始化物件（Object Initializer）中一個冷門的語法 -「Xyz = { ... }」 | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2020/11/30/112402#comment-5171239737">3 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/supershowwei/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/4067/195/avatar92.jpg?1448242888"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/supershowwei/">SuperShowwei</a>\
+	 <span class="dsq-widget-comment"><p>推，便宜好用，是真．佛心軟體。</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2020/09/21/094607">[料理佳餚] 在 Windows Server 2016/2019 建立 RAM Disk | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2020/09/21/094607#comment-5152661834">4 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/kkbruce/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/6310/5406/avatar92.jpg?1605454739"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/kkbruce/">Bruce Chen</a>\
+	 <span class="dsq-widget-comment"><p>SoftPerfect RAM Disk 真的推，一套沒幾塊錢，我在某次特價還買到號稱永久更新的50年更新版。</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2020/09/21/094607">[料理佳餚] 在 Windows Server 2016/2019 建立 RAM Disk | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2020/09/21/094607#comment-5152598609">4 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/supershowwei/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/4067/195/avatar92.jpg?1448242888"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/supershowwei/">SuperShowwei</a>\
+	 <span class="dsq-widget-comment"><p>謝謝現金大大的分享，小弟受用無窮。</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2020/07/20/101750">[料理佳餚] C# 一個 Open Source 的 Compile-time AOP 框架 - AspectInjector | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2020/07/20/101750#comment-5009039649">7 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/cashwu/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/10971/4165/avatar92.jpg?1605334379"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/cashwu/">Cash</a>\
+	 <span class="dsq-widget-comment"><p>感謝大大分享，參考你的文章和官方的代碼寫了一個可以用在 autofac 的 Cache XD...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2020/07/20/101750">[料理佳餚] C# 一個 Open Source 的 Compile-time AOP 框架 - AspectInjector | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2020/07/20/101750#comment-5009005208">7 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/supershowwei/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/4067/195/avatar92.jpg?1448242888"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/supershowwei/">SuperShowwei</a>\
+	 <span class="dsq-widget-comment"><p>指定 Listen 的 IP 可以像下圖這樣做...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/supershowwei/2019/10/07/090708">[料理佳餚] 除了 Web API 之外的新選擇 - gRPC 服務 | 軟體主廚的程式料理廚房 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/supershowwei/2019/10/07/090708#comment-4928864519">9 months ago</a></p>\
+	 </li>\
+	 </ul>\
+');
